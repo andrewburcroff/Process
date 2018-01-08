@@ -1,0 +1,6 @@
+How to run process.c
+ 1) Open terminal.
+ 2) Type in terminal "make main"
+ 3) Type in terminal "./a.out"
+
+In the Screen shots folder I have provided a few screen shot of the code working.
