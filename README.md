@@ -1,0 +1,2 @@
+# process3
+Implemented a Process that deals with deadlocks. The program sets up deadlock conditions for practice detecting and recovering. There will be to semaphores needed screen, keyboard. Overall, the algorithm will open both semaphores while spanning 9 threads then they will die. The function getSemaphores returns deadlock_count_number of how many times recovered from deadlock. Finally the process, the threads will call this process to prompt the user and deadlock_count_number number of deadlocks
